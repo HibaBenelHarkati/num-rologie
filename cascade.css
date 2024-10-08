@@ -1,0 +1,17 @@
+html, body {
+    margin: 100x;
+    background-color:bisque;
+ }
+.main{
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    text-align: center;
+}
+.hi{
+    margin-top: 3px;
+}
+.pure-button{
+    margin-top: 10px;
+}
